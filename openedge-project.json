@@ -1,0 +1,12 @@
+{
+  "name": "BatteryPowerSimulation",
+  "version": "1.0",
+  "oeversion": "12.8",
+  "graphicalMode": true,
+  "charset": "windows-1252",
+  "extraParameters": "-nosplash",
+  "buildPath": [
+    { "type": "source", "path": "." }
+  ],
+  "numThreads": 4
+}
